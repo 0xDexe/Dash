@@ -48,12 +48,14 @@ If youre interested in contributing, these are the proposed features :
 - Store Scene based on reward system
     - Avatars
 
-### Issues 
-- Diamond prefab render doesnt work
-- Pillars are cloned constantly 
-    - Object pool is not really implemented as pillars are cloned constantly 
-    - Pause the spawning coroutine?
-        - Find the spawner in [GameManager](https://github.com/exeroot/Dash/Assets/Scripts/GameManager)
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* Version Control [@Varun](https://github.com/khatrivarun)
+* Glue70 for making Casin
+
 
 ## License
 
@@ -62,11 +64,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-`Amartya Mannava` - amartyamanava@gmail.com
+Amartya Mannava - amartyamanava@gmail.com
 Project Link: [Dash-Unity](https://github.com/exeroot/Dash)
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* Me lol
-* Glue70 for making Casin
